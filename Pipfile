@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 statsmodels = "*"
-scikit-learn = "*"
 scipy = "*"
 pandas = "*"
 matplotlib = "*"
@@ -15,6 +14,7 @@ pydantic = "*"
 pingouin = "*"
 seaborn = "*"
 ipykernel = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
